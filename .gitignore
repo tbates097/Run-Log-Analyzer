@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+.env
+.venv
+venv/
+env/
+dist/
+build/
+*.spec
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Other
+.DS_Store
